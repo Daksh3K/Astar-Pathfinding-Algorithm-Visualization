@@ -8,4 +8,4 @@ A Faulty A* Path-finding Algorithm. Visualized using tkinter.
 3. Press Start to initialize the algorithm
 
 
-The algorithm is faulty because it contains a weighted Heuristic calculation (x1,5), and is incomplete. As a result, it cannot pathfind around barriers.
+The algorithm is faulty because it contains a weighted Heuristic calculation (x1.5), and is incomplete. As a result, it cannot pathfind around barriers.
