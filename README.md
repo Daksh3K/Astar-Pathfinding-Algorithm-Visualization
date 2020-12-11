@@ -5,7 +5,7 @@ A* Path-finding Algorithm made in Python. Visualized using tkinter.
 Just download the .py file and run it. Nothing else required.
 
 
-**How to Use**
+## How to Use
 
 1. First click on the grid is Start Node
 2. Second click is End Node
